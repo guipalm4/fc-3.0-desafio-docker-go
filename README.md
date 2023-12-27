@@ -7,3 +7,9 @@
  docker run guipalm4/fullcycle
  ```
 
+2. Pull na imagem:
+
+ ```bash
+ docker pull guipalm4/fullcycle
+ ```
+
